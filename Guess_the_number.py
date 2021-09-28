@@ -24,3 +24,5 @@ else:
     print('Nope. The number I was thinking of was ' + str(secretNumber)) 
 
 print('You took ' + str(guessesTaken) + ' guesses.')
+
+#Test second Commit
